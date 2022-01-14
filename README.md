@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Din-coder
-- 👀 I’m interested in coding
-- 🌱 I’m currently Python fullstack development
+- 👋 Hi, I’m @Din-coder.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently working as Python fullstack developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
