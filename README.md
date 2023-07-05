@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Din-coder.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently working as Python fullstack developer.
+- 🌱 I’m currently studying Msc Computing at University of Roehampton.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
